@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 <!--
 **farhadhsn8/farhadhsn8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 
-![](https://komarev.com/ghpvc/?username=farhadhsn8&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=farhadhsn8&color=blueviolet&style=for-the-badge) -->
 
 
