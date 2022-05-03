@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 
-[](https://komarev.com/ghpvc/?username=farhadhsn8&color=blueviolet&style=for-the-badge)  
+![](https://komarev.com/ghpvc/?username=farhadhsn8&color=blueviolet&style=for-the-badge)  
 
 
